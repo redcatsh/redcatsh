@@ -1,16 +1,65 @@
-### Hi there 👋
+<p align="right">
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fredcatsh%2Fsonghee&count_bg=%23DFA5FF&title_bg=%23FFB1D3&icon=github.svg&icon_color=%239DE8FF&title=hits&edge_flat=false"/></a>
+</p>
 
-<!--
-**redcatsh/redcatsh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 👋🏻 Hello
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💻   빠르고, 정확하고, 더 노력하는 개발자가 되자!
+- 🎨   UI/UX 디자인을 고려하자!
+- 👩🏻‍🏫   이미 알고 있는 것에 안주하지 말고, 항상 배우는 자세로 임하자!
+
+<br>
+
+## 👩🏻‍💻 Tech Stack 
+
+
+<p align="center">
+    <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Typescript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+    <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>    
+    <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white"/>
+   
+</p>
+<p align="center">
+   <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Emotion-FE5196?style=flat-square&logo=emotion&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Apollo Client-311C87?style=flat-square&logo=Apollo GraphQL&logoColor=white"/>
+  </p>
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=redcatsh&langs_count=5">
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=redcatsh&count_private=true&show_icons=true&theme=buefy" />
+</a>
+<br>
+
+## 🎨 UI/UX Design Tools
+
+<p align="center">
+   <img src="https://img.shields.io/badge/Adobe Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white"/>
+   <img src="https://img.shields.io/badge/Adobe Illustrator-FF9A00?style=flat-square&logo=adobeillustrator&logoColor=white"/>
+   <img src="https://img.shields.io/badge/Adobe XD-FF61F6?style=flat-square&logo=adobexd&logoColor=white"/>
+   <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/>
+  </p>
+
+<br>
+
+## 🙋🏻‍♀️ Contact me
+
+<div align="center">
+    <a href="mailto:songhee176@gmail.com">
+        <img 
+            src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
+            style="height: auto; margin-left: 20px; margin-right: 20px; padding: 10px;"/>
+    </a>
+    <a href="https://instagram.com/badassong">
+        <img 
+            src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://instagram.com/badassong/"
+            style="height: auto; margin-left: 20px; margin-right: 20px; padding: 10px;"/>
+    </a>
+    
+</div>
