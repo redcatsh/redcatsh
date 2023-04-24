@@ -25,7 +25,7 @@
 <p align="center">
    <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white"/>
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Emotion-FE5196?style=flat-square&logo=emotion&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Emotion-DB7093?style=flat-square&logo=styledcomponents&logoColor=white"/>
     <img src="https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Apollo Client-311C87?style=flat-square&logo=apollographql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
