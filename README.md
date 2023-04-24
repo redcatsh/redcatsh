@@ -20,7 +20,6 @@
     <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>    
     <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white"/>
     <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white" />
-    <img src="https://img.shields.io/badge/styled components-DB7093?style=flat-square&logo=styledcomponents&logoColor=white" />
    
 </p>
 <p align="center">
@@ -30,7 +29,6 @@
     <img src="https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Apollo Client-311C87?style=flat-square&logo=apollographql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Post CSS-DD3A0A?style=flat-square&logo=postcss&logoColor=white"/>
   </p>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
