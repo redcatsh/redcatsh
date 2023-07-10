@@ -37,18 +37,10 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=redcatsh&count_private=true&show_icons=true&theme=buefy" />
 </a>
-<br>
-
-## 🎨 UI/UX Design Tools
-
-<p align="center">
-   <img src="https://img.shields.io/badge/Adobe Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white"/>
-   <img src="https://img.shields.io/badge/Adobe Illustrator-FF9A00?style=flat-square&logo=adobeillustrator&logoColor=white"/>
-   <img src="https://img.shields.io/badge/Adobe XD-FF61F6?style=flat-square&logo=adobexd&logoColor=white"/>
-   <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/>
-  </p>
 
 <br>
+
+
 
 ## 🙋🏻‍♀️ Contact me
 
