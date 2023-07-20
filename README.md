@@ -40,7 +40,7 @@
 
 <br>
 
-## 🎨 UI/UX TOOLS 
+## 🎨 UI/UX Tools 
 
 
 <p align="center">
