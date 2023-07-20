@@ -44,7 +44,7 @@
 
 
 <p align="center">
-    <img src="https://img.shields.io/badge/AdobeXD-FF61F6?style=flat-square&logo=adobexd&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Adobe XD-FF61F6?style=flat-square&logo=adobexd&logoColor=white"/>
     <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/>
 </p>
 
